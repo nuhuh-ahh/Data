@@ -2,7 +2,7 @@
   "SolENG": {
     "username": "SolENG",
     "password_hash": "f3c29e82deca9bccfcb0b42529859606e672af1bf85f1d6facc197a1d83a6b08",
-    "cash": 855,
+    "cash": 480,
     "per_click": 1,
     "per_sec": 0,
     "rebirth_lvl": 0,
@@ -10,8 +10,8 @@
     "boost_end": 0,
     "price_click": 50,
     "price_auto": 100,
-    "price_discount": 375,
-    "discount": 0.9,
+    "price_discount": 937,
+    "discount": 0.8,
     "points": 0,
     "current_plan": "Normal",
     "user_owned_plans": [
