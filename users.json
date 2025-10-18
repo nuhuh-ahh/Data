@@ -1,1 +1,24 @@
-{}
+{
+  "SolENG": {
+    "username": "SolENG",
+    "password_hash": "f3c29e82deca9bccfcb0b42529859606e672af1bf85f1d6facc197a1d83a6b08",
+    "cash": 1000,
+    "per_click": 1,
+    "per_sec": 0,
+    "rebirth_lvl": 0,
+    "cash_boost": 1,
+    "boost_end": 0,
+    "price_click": 50,
+    "price_auto": 100,
+    "price_discount": 150,
+    "discount": 1,
+    "points": 0,
+    "current_plan": "Normal",
+    "user_owned_plans": [
+      "Normal"
+    ],
+    "last_login": 1760788387,
+    "last_reward": null,
+    "created_at": 1760788387
+  }
+}
