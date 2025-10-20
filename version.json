@@ -1,8 +1,8 @@
 {
-    "link": "https://link-to-latest.py",
-    "version": "1.0.0",
-    "change.log": {
-        "v1.0.0": "Ra mắt phiên bản đầu tiên!",
-        "v1.1.0": "- Thêm tính năng auto update.\n- Fix bug hiển thị tiếng Việt."
-    }
+  "link": "https://raw.githubusercontent.com/nuhuh-ahh/Data/main/app.py",
+  "version": "1.0.0",
+  "change.log": {
+    "1.0.0": "Ra mắt bản đầu tiên\n- Đăng ký/login tài khoản GitHub\n- Chơi clicker, Save, Reset, ADMIN...",
+    "1.1.0": "- Thêm auto update\n- Giao diện nút mới"
+  }
 }
