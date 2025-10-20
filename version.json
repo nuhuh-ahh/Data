@@ -1,2 +1,8 @@
-"link" : ""
-"version" : "0.1"
+{
+    "link": "https://link-to-latest.py",
+    "version": "1.0.0",
+    "change.log": {
+        "v1.0.0": "Ra mắt phiên bản đầu tiên!",
+        "v1.1.0": "- Thêm tính năng auto update.\n- Fix bug hiển thị tiếng Việt."
+    }
+}
