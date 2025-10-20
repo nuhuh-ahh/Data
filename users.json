@@ -2,11 +2,11 @@
   "SolENG": {
     "username": "SolENG",
     "password_hash": "f3c29e82deca9bccfcb0b42529859606e672af1bf85f1d6facc197a1d83a6b08",
-    "cash": 999792242713675,
+    "cash": 999792243162563,
     "per_click": 115,
     "per_sec": 101,
     "rebirth_lvl": 2,
-    "cash_boost": 5,
+    "cash_boost": 1,
     "boost_end": 1760963920,
     "price_click": 429496729600,
     "price_auto": 30078842,
