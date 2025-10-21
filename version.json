@@ -3,6 +3,7 @@
   "version": "1.0.5",
   "change.log": {
     "1.0.0": "Ra mắt bản đầu tiên\n-Login/Register/Logout\n-Plans,Point,Cash,Daily Rewards,Rebirth,ADMIN,Change Log,Check for Update\n-RESET DATA BUTTON\n-Upgrade",
-    "1.0.5": "- Đã sửa lỗi về app\n- Đã để app thành tiềng anh"
+    "1.0.5": "- Đã sửa lỗi về app\n- Đã để app thành tiềng anh",
+    "1.1.0": "- Đã sửa lỗi font app\n- Đã sửa lỗi check for update"
   }
 }
