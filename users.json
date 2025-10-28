@@ -2,17 +2,17 @@
   "SolENG": {
     "username": "SolENG",
     "password_hash": "f3c29e82deca9bccfcb0b42529859606e672af1bf85f1d6facc197a1d83a6b08",
-    "cash": 999792254366487,
-    "per_click": 115,
-    "per_sec": 101,
+    "cash": 999576733137629,
+    "per_click": 116,
+    "per_sec": 103,
     "rebirth_lvl": 2,
     "cash_boost": 1,
     "boost_end": 1761001250,
-    "price_click": 429496729600,
-    "price_auto": 30078842,
-    "price_discount": 1429375,
+    "price_click": 858993459200,
+    "price_auto": 145581594,
+    "price_discount": 2181052730,
     "discount": 0.1,
-    "points": 50,
+    "points": 200,
     "current_plan": "BEST",
     "user_owned_plans": [
       "Normal",
@@ -22,7 +22,7 @@
       "VIP++"
     ],
     "last_login": 1760912531,
-    "last_reward": "2025-10-21",
+    "last_reward": "2025-10-28",
     "created_at": 1760788387,
     "language": "en"
   },
